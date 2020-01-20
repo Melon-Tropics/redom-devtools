@@ -1,4 +1,7 @@
 # RE:DOM dev tools
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Melon-Tropics/redom-devtools.svg)](https://greenkeeper.io/)
+
 [RE:DOM](https://redom.js.org) dev tools for Chrome
 
 ## Install
